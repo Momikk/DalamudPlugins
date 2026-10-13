@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/Momikk/DalamudPlugins/main/pluginmaster.json
 | 插件 | 版本 | API | 项目 |
 | --- | --- | --- | --- |
 | 幻化之王 GlamourKing | 0.1.0.2 | 15 | [GlamourKing](https://github.com/Momikk/GlamourKing) |
-| 亚拉戈市场 AllaganMarket | 1.4.0.2 | 15 | [AllaganMarket](https://github.com/Momikk/AllaganMarket) |
+| 亚拉戈市场 AllaganMarket | 1.4.0.3 | 15 | [AllaganMarket](https://github.com/Momikk/AllaganMarket) |
 
 AllaganMarket 安装包已发布，构建、包内容与公开下载地址已验证；游戏内加载及国服功能兼容性仍需实际验收。
 
