@@ -14,5 +14,5 @@ https://raw.githubusercontent.com/Momikk/DalamudPlugins/main/pluginmaster.json
 
 | 插件 | 版本 | API | 项目 |
 | --- | --- | --- | --- |
-| 套装之王 SuitKing | 0.1.0.5 | 15 | [SuitKing](https://github.com/Momikk/SuitKing) |
+| 套装之王 SuitKing | 0.1.0.6 | 15 | [SuitKing](https://github.com/Momikk/SuitKing) |
 | 压价之王 UndercutKing | 0.1.0.5 | 15 | [UndercutKing](https://github.com/Momikk/UndercutKing) |
