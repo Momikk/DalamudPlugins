@@ -32,7 +32,7 @@
     "Author": "Momikk",
     "Name": "压价之王 UndercutKing",
     "InternalName": "UndercutKing",
-    "AssemblyVersion": "0.1.0.17",
+    "AssemblyVersion": "0.1.0.18",
     "Description": "轻量雇员市场辅助：比对市场价格，在雇员销售列表与雇员列表中高亮被压价的物品。仅提供提示，不自动改价。由 Momikk 维护，部分库存与界面交互代码改编自 Critical_Impact 的 Allagan Market，采用 AGPL-3.0-or-later。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Momikk/UndercutKing",
@@ -48,13 +48,13 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/Momikk/UndercutKing/main/images/icon.png",
     "Punchline": "高亮被压价的雇员物品，改价后及时更新。",
-    "Changelog": "- 设置改为顶部标签，修复选项文字被截断，帮助按钮改为清晰可见的「说明」。\r\n- Switched settings to top tabs, fixed truncated option labels, and replaced blank help buttons with visible labels.",
+    "Changelog": "- 移除设置右侧说明按钮和底部说明区，保留悬浮提示，并改为独立文字显示选项，避免截断。\r\n- Removed help buttons and the bottom help area, kept hover tips, and separated option labels from checkboxes to avoid clipping.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Momikk/UndercutKing/20d0726b758e8fb9ae4d9cd2ed0d95de90ad21ab/dist/UndercutKing-0.1.0.17.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Momikk/UndercutKing/20d0726b758e8fb9ae4d9cd2ed0d95de90ad21ab/dist/UndercutKing-0.1.0.17.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Momikk/UndercutKing/0d5cf1cf0e35b5c14eb7761b8a50b1488c6babbc/dist/UndercutKing-0.1.0.18.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Momikk/UndercutKing/0d5cf1cf0e35b5c14eb7761b8a50b1488c6babbc/dist/UndercutKing-0.1.0.18.zip",
     "DownloadCount": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1792323395
+    "LastUpdate": 1792323738
   }
 ]
