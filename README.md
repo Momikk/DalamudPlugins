@@ -16,4 +16,4 @@ https://raw.githubusercontent.com/Momikk/DalamudPlugins/main/pluginmaster.json
 | --- | --- | --- | --- |
 | 套装之王 SuitKing | 0.1.0.25 | 15 | [SuitKing](https://github.com/Momikk/SuitKing) |
 | 压价之王 UndercutKing | 0.1.0.21 | 15 | [UndercutKing](https://github.com/Momikk/UndercutKing) |
-| 回收之王 RecycleKing | 0.1.0.3 | 15 | [RecycleKing](https://github.com/Momikk/RecycleKing) |
+| 回收之王 RecycleKing | 0.1.0.4 | 15 | [RecycleKing](https://github.com/Momikk/RecycleKing) |
