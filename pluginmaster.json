@@ -29,16 +29,16 @@
     "Changelog": "版本 0.1.1.2\n· 修复筹备预览窗口阻塞 HQ 奖励页的问题；提交时收起预览，结束后恢复，可在原生窗口停止。\nEnglish\n· Fix the preview blocking HQ delivery rewards; close it during delivery, restore it afterward, and keep Stop on the native window."
   },
   {
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Momikk/UndercutKing/5e724904feec6ae506e6673ebd0062ca325ebf61/dist/UndercutKing-0.1.1.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Momikk/UndercutKing/5e724904feec6ae506e6673ebd0062ca325ebf61/dist/UndercutKing-0.1.1.0.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Momikk/UndercutKing/7cc79e9e7e8fd78b15001bdb286550aea621c8ed/dist/UndercutKing-0.1.1.1.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Momikk/UndercutKing/7cc79e9e7e8fd78b15001bdb286550aea621c8ed/dist/UndercutKing-0.1.1.1.zip",
     "DownloadCount": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794309896,
+    "LastUpdate": 1794381278,
     "Author": "Momikk",
     "Name": "压价之王 UndercutKing",
     "InternalName": "UndercutKing",
-    "AssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.1.1",
     "Description": "轻量雇员市场辅助：比对市场价格，在雇员销售列表与雇员列表中高亮被压价的物品。仅提供提示，不自动改价。由 Momikk 维护，部分库存与界面交互代码改编自 Critical_Impact 的 Allagan Market，采用 AGPL-3.0-or-later。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Momikk/UndercutKing",
@@ -54,7 +54,7 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/Momikk/UndercutKing/main/images/icon.png",
     "Punchline": "高亮被压价的雇员物品，改价后及时更新。",
-    "Changelog": "- 适配7.58版本更新\r\n- Update for patch 7.58.",
+    "Changelog": "- 与其他卖家的最低价相同也标记为被压价。\r\n- Mark listings priced at the lowest competing price as undercut.",
     "AcceptsFeedback": true
   },
   {
