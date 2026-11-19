@@ -29,16 +29,16 @@
     "Changelog": "版本 0.1.2.0\n· 新增插件联动 IPC，支持查看装备与进度、补齐和建立套装、收藏柜收纳、品质转换和筹备稀有品。\nEnglish\n· Add IPC for equipment and progress queries, outfit completion and creation, cabinet storage, quality conversion, and expert delivery."
   },
   {
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Momikk/UndercutKing/fe314c8d38585f48f1621aa6430190d35c83bcf7/dist/UndercutKing-0.1.2.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Momikk/UndercutKing/fe314c8d38585f48f1621aa6430190d35c83bcf7/dist/UndercutKing-0.1.2.0.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Momikk/UndercutKing/b037fe14e746505d93e72d1c97bcf56517fa83e1/dist/UndercutKing-0.1.2.1.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Momikk/UndercutKing/b037fe14e746505d93e72d1c97bcf56517fa83e1/dist/UndercutKing-0.1.2.1.zip",
     "DownloadCount": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1794898039,
+    "LastUpdate": 1795089993,
     "Author": "Momikk",
     "Name": "压价之王 UndercutKing",
     "InternalName": "UndercutKing",
-    "AssemblyVersion": "0.1.2.0",
+    "AssemblyVersion": "0.1.2.1",
     "Description": "轻量雇员市场辅助：比对市场价格，在雇员销售列表与雇员列表中高亮被压价的物品。仅提供提示，不自动改价。由 Momikk 维护，部分库存与界面交互代码改编自 Critical_Impact 的 Allagan Market，采用 AGPL-3.0-or-later。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Momikk/UndercutKing",
@@ -54,7 +54,7 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/Momikk/UndercutKing/main/images/icon.png",
     "Punchline": "高亮被压价的雇员物品，改价后及时更新。",
-    "Changelog": "- 新增 IPC，可读取各雇员的压价数量、在售商品及高亮状态，并手动请求刷新报价。\r\n- Add IPC to read undercut counts, listings, and highlight states per retainer, and request a price refresh.",
+    "Changelog": "修复市场结果窗口仍在加载时漏掉限流重试的问题。小笼包可读取同一物品的重试状态。\nPreserve rate-limit retries while the results window loads. CyberCrabXiaoLongBao can read the retry status for the same item.",
     "AcceptsFeedback": true
   },
   {
